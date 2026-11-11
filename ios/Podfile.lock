@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - saafe_aa_sdk (1.0.3):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - saafe_aa_sdk (from `.symlinks/plugins/saafe_aa_sdk/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/darwin`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  saafe_aa_sdk:
+    :path: ".symlinks/plugins/saafe_aa_sdk/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  saafe_aa_sdk: 010ddcd1ecb3d1d5ee0c3ae7780e88a4398cd808
+  url_launcher_ios: 7a95fa5b60cc718a708b8f2966718e93db0cef1b
+  webview_flutter_wkwebview: 8ebf4fded22593026f7dbff1fbff31ea98573c8d
+
+PODFILE CHECKSUM: 4b015915ec662986b54bf30ab778da63f7dda016
+
+COCOAPODS: 1.16.2
